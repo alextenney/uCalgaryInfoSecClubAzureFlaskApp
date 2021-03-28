@@ -1,3 +1,3 @@
 <?php
 
-echo "magpie{4cc3553d_941n3d!}";
+echo "ucsec{4cc3553d_941n3d!}";
